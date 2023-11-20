@@ -2,7 +2,7 @@
 path: "/intro"
 title: "Introduction"
 order: "1A"
-section: "The First Section"
+section: "Introduction" to data structures and algorithms"
 description: "this is the description that will show up in social shares"
 icon: "dumpster-fire"
 ---
