@@ -2,12 +2,12 @@
 path: "/intro"
 title: "Introduction"
 order: "1A"
-section: "Introduction" to data structures and algorithms"
+section: "The First Section"
 description: "this is the description that will show up in social shares"
 icon: "dumpster-fire"
 ---
 
-This is page one.
+Data Structures and algorithms are the building blocks of computer science. They are the tools that you will use to solve problems. They are the tools that you will use to build software. They are the tools that you will use to build a career.
 
 ## Check out this image
 
