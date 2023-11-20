@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: "Gatsby Starter Course",
     subtitle: "For making great content",
-    author: "Your Name Here",
-    authorSubtitle: "Company Here",
+    author: "Joseph Miocevich",
+    authorSubtitle: "Mecahnical Rock",
     authorImage: "author.jpg", // this image should go in /static
     courseImage: "courseImage.png", // this also should go in /static
     twitter: "https://twitter.com/holtbt", // make empty string to omit socials
