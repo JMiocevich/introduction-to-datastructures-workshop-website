@@ -16,7 +16,7 @@ Data Structures and algorithms are the building blocks of computer science. They
 ## Check out a code sample
 
 ```js
-const x = 2 + 2;
+const x = 2 + 2 + 420 ;
 ```
 
 - This is a link to [Frontend Masters][fem].
