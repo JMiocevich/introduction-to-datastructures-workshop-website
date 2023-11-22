@@ -67,3 +67,4 @@ Another CSV will be output to `public/links.csv` where it pull all the links out
 The **code** is this repo is licensed under the Apache 2.0 license.
 
 I include the CC-BY-NC-4.0 license for the content; this is what I recommend you license your **content** under: anyone can use and share the content but they cannot sell it; only you can.
+
