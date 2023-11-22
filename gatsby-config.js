@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter Course",
+    title: "Introduction to Data Structures and Algorithms",
     subtitle: "For making great content",
     author: "Joseph Miocevich",
     authorSubtitle: "Mecahnical Rock",
