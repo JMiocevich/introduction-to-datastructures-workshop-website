@@ -18,7 +18,7 @@ module.exports = {
       "will index your page for",
     ],
   },
-  pathPrefix: "/sheCodes-workshop-website",
+  pathPrefix: "/introduction-to-datastructures-workshop-website",
   // pathPrefix: "/my-repo-name", // if you're using GitHub Pages, put the name of the repo here with a leading slash
   plugins: [
     {
