@@ -1,16 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: "Introduction to Data Structures and Algorithms",
-    subtitle: "For making great content",
+    title: "Data Structures and Algorithms",
+    subtitle: "Get good or go home",
     author: "Joseph Miocevich",
     authorSubtitle: "Mecahnical Rock",
     authorImage: "author.jpg", // this image should go in /static
     courseImage: "courseImage.png", // this also should go in /static
-    twitter: "https://twitter.com/holtbt", // make empty string to omit socials
-    linkedin: "https://linkedin.com/in/btholt",
-    github: "https://github.com/btholt",
+    twitter: "", // make empty string to omit socials
+    linkedin: "https://www.linkedin.com/in/joseph-miocevich-864482125",
+    github: "https://github.com/JMiocevich/",
     description:
-      "This is the description that will show up when people share as well as on search engines",
+      "Introduction Data Structures and Algorithms",
     keywords: [
       "this is",
       "a list of keywords and phrase",
