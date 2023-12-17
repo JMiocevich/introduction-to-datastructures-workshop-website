@@ -1,9 +1,9 @@
 ---
 path: "/page-2"
-title: "Page 2"
+title: "BIG O and Time complexity"
 order: "2A"
 description: "The second page"
-section: "The Second Section"
+section: "Basics"
 icon: "book"
 ---
 

@@ -2,7 +2,7 @@
 path: "/page-3"
 title: "Page 3"
 order: "2B"
-section: "The Second Section"
+section: "Basics"
 ---
 
 This is page three.
