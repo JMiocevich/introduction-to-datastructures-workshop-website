@@ -1,29 +1,40 @@
 ---
 path: "/intro"
 title: "Introduction"
-order: "1A"
-section: "The First Section"
+order: "1B"
+section: "Introduction"
 description: "this is the description that will show up in social shares"
 icon: "dumpster-fire"
 ---
 
-Data Structures and algorithms are the building blocks of computer science. They are the tools that you will use to solve problems. They are the tools that you will use to build software. They are the tools that you will use to build a career.
+Data Structures and algorithms are the building blocks of computer science.
 
-## Check out this image
+## Hello
 
-![Gatsby Logo](./images/logo.svg)
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/> 
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 
-## Check out a code sample
+## Why should I care?
 
-```js
-const x = 2 + 2 + 420 ;
-```
+- Isnt it old fashioned?
+- I dont use them in my actual job
 
-- This is a link to [Frontend Masters][fem].
-- This another link to [Brian Holt's Twitter](https://twitter.com/holtbt).
-- Here's another link to a [site built with this starter][containers].
+## Time and Space Complexity
 
-> This is emphasized information.
+- No proofs
+- Worst case only
 
-[fem]: https://www.frontendmasters.com
-[containers]: https://btholt.github.io/complete-intro-to-containers/
+## Why typescript?
+
+- Beginner friendly

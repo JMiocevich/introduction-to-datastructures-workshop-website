@@ -2,7 +2,7 @@
   change your syntax highlighting theme here
   https://github.com/PrismJS/prism/tree/master/themes 
 */
-@import "prismjs/themes/prism-solarizedlight.css";
+@import "prismjs/themes/prism-okaidia.css";
 
 :root {
   --primary: #dfa067;
