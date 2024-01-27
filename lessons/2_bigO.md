@@ -3,7 +3,7 @@ path: "/2_bigO"
 title: "BIG O and Time complexity"
 order: "2A"
 description: "The second page"
-section: "Basics"
+section: "Algorithm Analysis"
 icon: "book"
 ---
 

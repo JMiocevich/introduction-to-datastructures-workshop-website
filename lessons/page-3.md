@@ -2,7 +2,7 @@
 path: "/page-3"
 title: "Page 3"
 order: "2B"
-section: "Basics"
+section: "Algorithm Analysis"
 ---
 
 This is page three.
