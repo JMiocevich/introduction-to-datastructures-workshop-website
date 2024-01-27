@@ -1,8 +1,8 @@
 ---
 path: "/preReqs"
-title: "prereqs"
-order: "1A"
-section: "Introduction"
+title: "Getting Started"
+order: "1B"
+section: "Welcome"
 description: "this is the description that will show up in social shares"
 icon: "dumpster-fire"
 ---

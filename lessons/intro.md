@@ -1,8 +1,8 @@
 ---
 path: "/intro"
 title: "Introduction"
-order: "1B"
-section: "Introduction"
+order: "1A"
+section: "Welcome"
 description: "this is the description that will show up in social shares"
 icon: "dumpster-fire"
 ---
