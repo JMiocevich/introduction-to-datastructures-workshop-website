@@ -3,7 +3,7 @@ module.exports = {
     title: "Data Structures and Algorithms",
     subtitle: "Get good or go home",
     author: "Joseph Miocevich",
-    authorSubtitle: "Mecahnical Rock",
+    authorSubtitle: "Mechanical Rock",
     authorImage: "author.jpg", // this image should go in /static
     courseImage: "courseImage.png", // this also should go in /static
     twitter: "", // make empty string to omit socials
