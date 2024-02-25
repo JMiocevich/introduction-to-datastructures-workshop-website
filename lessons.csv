@@ -1,0 +1,20 @@
+path,title,order,description,section,icon
+"/intro","Introduction","1A","this is the description that will show up in social shares","Welcome","dumpster-fire"
+"/preReqs","Getting Started","1B","this is the description that will show up in social shares","Welcome","dumpster-fire"
+"/2_bigO","BIG O and Time complexity","2A","The second page","Algorithm Analysis","book"
+"/page-3","Page 3","2B",,"Algorithm Analysis",
+"/page-4","Page 4","2C",,"Linkded Lists",
+"/3_linearSearch","Linear Search","3A",,"Search & Sort",
+"/3_binarySearch","Binary Search","3B",,"Search & Sort",
+"/3_bubbleSort","Bubble Sort","3C",,"Search & Sort",
+"/4_linkedLists","Linked List","4A",,"Lists",
+"/4_queueStack","Queue & Stacks","4B",,"Lists",
+"/5_recursion","Recursion","5A",,"Recursion",
+"/5_recursion","Path finding","5B",,"Recursion",
+"/6_trees","Overview","6A",,"Trees",
+"/6_treeTraversal","Traversal and Implemetnation","6B",,"Trees",
+"/6_treeBFS","BFS","6C",,"Trees",
+"/6_treeDFS","DFS","6D",,"Trees",
+"/7_graphs","Overview","7A",,"Graphs",
+"/8_maps","Maps","8A",,"Maps and LRU",
+"/8_lruCache","LRU Cache","8B",,"Maps and LRU",
