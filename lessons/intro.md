@@ -9,7 +9,15 @@ icon: "dumpster-fire"
 
 Data Structures and algorithms are the building blocks of computer science.
 
-## Hello
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
+## Welcome!
+Goal is foundational understanding of data structures and algorithms
 
   <br/>
   <br/>
@@ -29,12 +37,59 @@ Data Structures and algorithms are the building blocks of computer science.
 
 - Isnt it old fashioned?
 - I dont use them in my actual job
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/> 
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 
 ## Time and Space Complexity
 
 - No proofs
 - Worst case only
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/> 
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 
 ## Why typescript?
+
+- Beginner friendly
+
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/> 
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
+
+
+
+## Why am I?
 
 - Beginner friendly
